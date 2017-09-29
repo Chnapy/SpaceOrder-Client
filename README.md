@@ -1,3 +1,12 @@
+[Game Design Document (google doc)](https://docs.google.com/document/d/1-JW2kC93YbZh6Bva10zljln3SZr6x_JMIuP6pl2sP4I/edit?usp=sharing)
+
+[Mockup HTML/CSS](https://chnapy.github.io/spacehero/spaceorder/)<br>
+[Theme CSS Bootstrap](https://chnapy.github.io/spacehero/)
+
+[GitHub Serveur](https://github.com/Chnapy/SpaceOrder-Server)
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
